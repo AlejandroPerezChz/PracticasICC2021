@@ -1,0 +1,5 @@
+Informacion Proveedor: 
+   Nombre=Luis Cervantes
+   Tienda=Lecheria C
+   Productos Entregados=450
+   Monto Productos Entregados=90000.0

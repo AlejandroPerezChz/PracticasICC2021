@@ -1,0 +1,24 @@
+
+Informacion del producto
+		Nombre de producto: Leche
+		Tipo de producto: Alimento
+		Fecha de entrada: 22/01/2022
+		Fecha de salida: 22/01/2023
+		Precio compra: 10.0
+		Precio venta: 20.0
+		Productor asociado: Luis Cervantes
+		Tipo: Alimento
+		Fecha  de caducidad: Sat Jan 20 00:00:00 CST 2024
+		Temperaruta de almacenamiento: 6.0
+
+Informacion del producto
+		Nombre de producto: Leche
+		Tipo de producto: Alimento
+		Fecha de entrada: 22/01/2022
+		Fecha de salida: 22/01/0202
+		Precio compra: 12.5
+		Precio venta: 26.0
+		Productor asociado: Luis Cervantes
+		Tipo: Alimento
+		Fecha  de caducidad: Wed Dec 20 00:00:00 CST 2023
+		Temperaruta de almacenamiento: 6.0
